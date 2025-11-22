@@ -1,0 +1,17 @@
+[
+	{
+		"id": 11,
+		"name": "Dr. Ahmet",
+		"specialty": { "id": 1, "name": "Dahiliye" }
+	},
+	{
+		"id": 12,
+		"name": "Dr. Ayşe",
+		"specialty": { "id": 1, "name": "Dahiliye" }
+	},
+	{
+		"id": 21,
+		"name": "Dr. Mehmet",
+		"specialty": { "id": 2, "name": "KBB" }
+	}
+]

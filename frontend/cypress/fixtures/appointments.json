@@ -1,0 +1,9 @@
+[ 
+	{
+		"id": 100,
+		"start_time": "2025-12-01T10:00:00Z",
+		"patient": { "name": "Test", "surname": "User" },
+		"patient_id": 1,
+		"doctor": { "id": 11, "name": "Dr. Ahmet", "specialty": { "id": 1, "name": "Dahiliye" } }
+	}
+]
