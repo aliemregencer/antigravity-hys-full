@@ -32,3 +32,5 @@ logs/
 tmp/
 *.tmp
 *.pid
+# Ignore backend git backup
+backend/.git_backup/
