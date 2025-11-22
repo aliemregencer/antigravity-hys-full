@@ -1,0 +1,8 @@
+.table-responsive {
+    overflow-x: auto;
+}
+
+.error-text {
+    color: #dc2626;
+    font-weight: 500;
+}
